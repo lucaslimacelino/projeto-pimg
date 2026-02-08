@@ -1,5 +1,8 @@
 # projeto-pimg
 
+#link para video apresentativo
+https://youtu.be/PT8qzdzYu4g
+
 # Classificação de Pizzas por Tamanho usando Transformada de Hough Circular
 
 Este repositório apresenta a solução desenvolvida para identificação e classificação
